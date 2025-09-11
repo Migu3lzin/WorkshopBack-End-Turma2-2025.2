@@ -1,6 +1,6 @@
 Processo seletivo Fábrica de Software 2025.2.
 Projetos do WorkShop Backend.
-Autor do repositório: Miguel Luis da Silva SAntos.
+Autor do repositório: Miguel Luis da Silva Santos.
 
 Objetivo:
 
